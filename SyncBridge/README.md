@@ -1,39 +1,66 @@
-# TCP Server-Client Application with Web UI and SQL Database
+# TCP Server Client Application with Web UI and SQL Database
 
-This is a complete integrated project developed using C# WPF, TCP/IP communication, SQL Server, and Web UI. The application includes a TCP Server, TCP Client, and Web-based user interface for data monitoring and management.
+This is a **complete integrated project** developed using **C# WPF, TCP/IP communication, SQL Database, and Web UI**.
 
-## 📌 Project Modules
-- TCP Server Application
-- TCP Client Application
-- Web UI Interface
-- SQL Server Database Connectivity
-- Refresh Functionality
-- Real-time Data Display
-- GitHub Version Control
+The application includes a **TCP Server**, **TCP Client**, and **Web-based user interface** for data monitoring and management.
 
-## 🛠 Technologies Used
-C#, WPF (.NET), TCP/IP (Sockets), SQL Server, HTML, CSS, JavaScript, Git & GitHub
+---
 
-## 📁 Project Structure
-WPF-TCP-IP  
-├── TCPClientWPF1  
-├── TCPServerWPF1  
-├── WebUI  
-│   ├── Index.html  
-│   ├── database.html  
-│   └── tcp1.avif  
-├── README.md  
-└── WPF TCP-IP.sln  
+## Project Modules
 
-## 🚀 Features
-- TCP Server and Client communication  
-- SQL database integration  
-- Real-time refresh functionality  
-- Web UI data display  
-- Clean and professional project structure  
+* ✅ TCP Server Application
+* ✅ TCP Client Application
+* ✅ Web UI Interface
+* ✅ SQL Database Connectivity
+* ✅ Refresh Functionality
+* ✅ Real-time Data Display
+* ✅ GitHub Version Control
 
-## 📊 Status
-Project completed successfully. All major functionalities including server, client, database, and web UI integration are implemented.
+---
 
-## 👨‍💻 Author
-Ishanvi Abrol
+## Technologies Used
+
+* **C#**
+* **WPF**
+* **TCP/IP**
+* **SQL Server**
+* **HTML**
+* **CSS**
+* **JavaScript**
+* **GitHub**
+
+---
+
+## Project Structure
+
+```text
+WPF-TCP-IP
+│
+├── TCPClientWPF1
+├── TCPServerWPF1
+├── WebUI
+│   ├── Index.html
+│   ├── database.html
+│   └── tcp1.avif
+│
+├── README.md
+└── WPF TCP-IP.sln
+```
+
+---
+
+## Status
+
+✅ **Project completed successfully**
+
+All major functionalities including server, client, database, and web UI integration are completed.
+
+---
+
+## Features
+
+* TCP Server and Client communication
+* SQL database integration
+* Refresh button functionality
+* Web UI data display
+* Professional project structure
